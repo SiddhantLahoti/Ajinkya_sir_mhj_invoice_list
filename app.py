@@ -5,12 +5,12 @@ import openpyxl
 from openpyxl.utils import column_index_from_string
 
 st.set_page_config(
-    page_title="MHJ Invoice list",
+    page_title="MHJ Invoice Packing list",
     page_icon="📊",
     layout="wide",
 )
 
-st.title("📊 MHJ Invoice list")
+st.title("📊 MHJ Invoice Packing list")
 st.markdown(
     "Upload **File A (Source/Lookup)** and **File B (Target Invoice)** to cross-reference PO numbers "
     "and map values while preserving all formatting, styles, and formulas."
