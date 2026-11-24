@@ -352,12 +352,12 @@ tab_ajinkya, tab_nilesh = st.tabs(
 
 with tab_ajinkya:
     ajinkya_mappings = [
-        {"File A Column": "E", "File B Column": "S", "Field Description": "Colour Code"},
-        {"File A Column": "F", "File B Column": "T", "Field Description": "Size Code"},
-        {"File A Column": "G", "File B Column": "L", "Field Description": "Barcode"},
-        {"File A Column": "H", "File B Column": "M", "Field Description": "Item Description"},
-        {"File A Column": "I", "File B Column": "K", "Field Description": "Style Code"},
-        {"File A Column": "O", "File B Column": "R", "Field Description": "Product Code"},
+        {"File A Column": "D", "File B Column": "S", "Field Description": "Colour Code"},
+        {"File A Column": "E", "File B Column": "T", "Field Description": "Size Code"},
+        {"File A Column": "F", "File B Column": "L", "Field Description": "Barcode"},
+        {"File A Column": "G", "File B Column": "M", "Field Description": "Item Description"},
+        {"File A Column": "H", "File B Column": "K", "Field Description": "Style Code"},
+        {"File A Column": "N", "File B Column": "R", "Field Description": "Product Code"},
     ]
     render_workflow_tab(
         tab_key="ajinkya",
