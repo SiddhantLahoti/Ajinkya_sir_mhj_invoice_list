@@ -374,7 +374,7 @@ with tab_ajinkya:
 with tab_nilesh:
     nilesh_mappings = [
         {"File A Column": "G", "File B Column": "I", "Field Description": "Customer PO"},
-        {"File A Column": "J", "File B Column": "B", "Field Description": "Sku#"},
+        {"File A Column": "J", "File B Column": "L", "Field Description": "Sku#"},
         {"File A Column": "M", "File B Column": "J", "Field Description": "Sku SR"},
         {"File A Column": "N", "File B Column": "M", "Field Description": "Description on PO #"},
         {"File A Column": "AJ", "File B Column": "R", "Field Description": "Item number"},
